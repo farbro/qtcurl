@@ -1,5 +1,5 @@
 TEMPLATE = lib
-DESTDIR = $$shadowed($$PWD)
+DESTDIR = $$shadowed($$PWD)/lib
 
 # library settings for qtcurl
 TARGET = qtcurl
